@@ -10,7 +10,8 @@
 
 - 💬 Ask me about **any Tech related stuff.**
 
--⚡ Fun fact **always learning**
+- ⚡ Fun fact **always learning**
+
 
 - 📫 How to reach me **momen.mohammed001@gmail.com**
     
@@ -33,4 +34,6 @@
 
 
 <p align="center"><h4 align="center">Show Your ❤️ by Staring My Repos!!</h4> </p>
+
+
 
